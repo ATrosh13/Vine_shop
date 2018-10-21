@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+}
+.left-image {
+  background: url('../../img/background.jpg');
+  width: 35%;
+  height: 948px;
+  background-size: cover;
+  background-position-x: 10%;
+}
+.app-container {
+  width: 65%;
+  border: 5px solid salmon;
+}

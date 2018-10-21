@@ -1,0 +1,22 @@
+.pay-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 60px;
+  background-color: #c1bbaf;
+  align-items: center;
+  opacity: 0.8;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+.button_payBox {
+  cursor: pointer;
+  border: none;
+  background-color: #7b0400;
+  width: 100px;
+  height: 35px;
+  color: #fff;
+  font-size: 22px;
+  font-family: Calibri, sans-serif;
+}

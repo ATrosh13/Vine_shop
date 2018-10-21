@@ -1,0 +1,51 @@
+.card {
+    
+    display: block;
+    width: 160px;
+    height: 240px;
+    border: 1px solid salmon;
+    box-sizing: border-box;
+    background-color: #fafafa;
+    margin-right: 25px;
+    /* position: absolute; */
+}
+ 	/*Стили для текста в боксах*/
+.card h1 {
+        font-size:100%;
+        font-family: Arial, sans-serif;
+        color: Brown;
+        margin-top:6%;
+        margin-left:7%;
+        font-weight: normal;
+       }
+.card p {
+        font-size:84%;
+        font-family: Arial, sans-serif;
+        color: black;
+        margin-top:4%;
+        margin-left:10%;
+       }
+.button_card {
+        padding:4% 35%;
+        background-color: Brown;
+        margin-left:5%;
+        color: #fff;
+        float: left;
+        margin-top: 4%;
+        border: none;
+        cursor: pointer;
+       }
+.image {
+        margin-top:5%;
+        margin-left:6%;
+        width:88%;
+        height: 100px;
+        border: 1px solid silver;
+        box-sizing: border-box;
+        background-color: LightGrey;
+        margin-right: 6%;
+       }
+img {
+           width:100%;
+           height:100%;
+       }

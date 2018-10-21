@@ -1,0 +1,35 @@
+.start-page {
+  width: 500px;
+  position: relative;
+  left: 30%;
+  top: 38%;
+}
+.start-page div {
+  width: 420px;
+}
+.start-page h2 {
+  width: 380px;
+  font-size: 62px;
+  font-weight: normal;
+  color: #390102;
+}
+.start-page p {
+  width: 420px;
+  font-size: 32px;
+  font-style: italic;
+  color: #818181;
+  margin-top: .5%;
+}
+.btn-goto-catalog {
+  cursor: pointer;
+  border: none;
+  background-color: #7b0400;
+  width: 120px;
+  height: 50px;
+  color: #fff;
+  font-size: 22px;
+  margin-top: 4%;
+}
+.btn-goto-catalog:active {
+  transform: translateY(3px);
+}
