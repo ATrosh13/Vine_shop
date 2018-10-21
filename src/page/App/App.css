@@ -4,10 +4,12 @@
 .left-image {
   background: url('../../img/background.jpg');
   width: 35%;
-  height: 948px;
+  height: 100%;
   background-size: cover;
   background-position-x: 10%;
+  position: fixed
 }
 .app-container {
   width: 65%;
+  margin-left: 35%
 }

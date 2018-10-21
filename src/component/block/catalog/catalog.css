@@ -1,6 +1,5 @@
 .catalog {
-    display: flex;
-    max-width: 100px;
+    display: block;
     padding: 20px;
     
 }
