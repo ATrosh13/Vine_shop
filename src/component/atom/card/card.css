@@ -1,8 +1,8 @@
 .card {
     
     display: inline-block ;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 275px;
     border: 1px solid salmon;
     box-sizing: border-box;
     background-color: #fafafa;
@@ -41,10 +41,10 @@
         cursor: pointer;
        }
 .image {
-        margin-top:5%;
-        margin-left:6%;
-        width:88%;
-        height: 100px;
+        margin-top: 5%;
+        margin-left: 7%;
+        width: 128px;
+        height: 128px;
         border: 1px solid silver;
         box-sizing: border-box;
         background-color: LightGrey;
