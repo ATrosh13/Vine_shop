@@ -8,6 +8,7 @@
     background-color: #fafafa;
     margin-right: 25px;
     margin-bottom: 20px;
+    vertical-align: top;
 }
  	/*Стили для текста в боксах*/
 .card h1 {
